@@ -1,0 +1,16 @@
+
+#List of curio slot type settings
+[[curiosSettings]]
+	identifier = "charm"
+	hasCosmetic = true
+	size = 4
+[[curiosSettings]]    
+    identifier = "ring"
+	hasCosmetic = true
+	size = 4
+[[curiosSettings]]    
+    identifier = "necklace"
+	hasCosmetic = true
+	size = 2
+ 
+
