@@ -35,6 +35,12 @@ onEvent('recipes', event => {
 		C: 'create:chute'
 	})
 
+	event.recipes.createMixing('create:chromatic_compound', [
+		'3x minecraft:glowstone_dust',
+		'3x create:powdered_obsidian',
+		'create:polished_rose_quartz'
+	]).superheated()
+
 	event.recipes.createMixing('minecraft:lapis_lazuli', [
 		'minecraft:quartz',
 		Fluid.of('thermal:ender', 100)

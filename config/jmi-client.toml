@@ -12,7 +12,7 @@
 
 [Waystones]
 	#Enable Waystones Integration
-	waystones = true
+	waystones = false
 	#The color code for Waystone marker. You can generate the color code from https://www.mathsisfun.com/hexadecimal-decimal-colors.html
 	#Range: 0 ~ 16777215
 	wayStoneMarkerColor = 16777215
