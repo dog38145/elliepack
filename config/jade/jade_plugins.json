@@ -1,4 +1,8 @@
 {
+  "tconstruct": {
+    "casting_table": true,
+    "drain": true
+  },
   "minecraft": {
     "horse_inventory": true,
     "total_ench_power": true,
@@ -35,9 +39,10 @@
     "fe": true
   },
   "create": {
-    "contraption": true,
+    "contraption_inv": true,
     "blaze_burner": true,
-    "crafting_blueprint": true
+    "crafting_blueprint": true,
+    "exact_block": true
   },
   "jade": {
     "block_states": false,
